@@ -1,0 +1,2 @@
+Prefix plugins/CumulativeClassifier/example/
+Plugin CumulativeClassifier inputfile parameters.txt outputfile no_time_warp_results_DEE1_RSV_Cumulative.csv

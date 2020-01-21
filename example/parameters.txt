@@ -1,0 +1,3 @@
+training	plugins/CumulativeClassifier/example/ViralChallenge_training_EXPRESSION_RMA.tsv
+clinical	plugins/CumulativeClassifier/example/ViralChallenge_training_CLINICAL.tsv
+prefix		plugins/CumulativeClassifier/example/ChosenGenes_Cumulative_
