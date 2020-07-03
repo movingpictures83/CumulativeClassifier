@@ -6,7 +6,6 @@ library(rattle)
 library(caret)
 print("Y");
 input <- function(inputfile) {
-  print("INPUT");
   parameters <<- read.table(inputfile, as.is=T);
   rownames(parameters) <<- parameters[,1];
   print("READING INPUT FILES...");
